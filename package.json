@@ -1,0 +1,21 @@
+{
+    "name": "execute-cmd",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "tsx src/index.ts"
+    },
+    "keywords": [],
+    "author": "Antony74",
+    "license": "MIT",
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^26.6.6",
+        "tsx": "^4.23.15",
+        "typescript": "^7.0.2"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "singleQuote": true
+    }
+}
